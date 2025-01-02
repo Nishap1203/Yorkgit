@@ -1,6 +1,7 @@
 Banana,
 apple
 grapes
+BANANA
 Orange
 pineapple
 carrot
