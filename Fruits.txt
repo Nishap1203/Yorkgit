@@ -2,6 +2,6 @@ Banana,
 apple
 grapes
 BANANA
-Orange
+cherry
 pineapple
 carrot
