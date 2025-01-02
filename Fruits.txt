@@ -2,6 +2,4 @@ Banana,
 apple
 grapes
 BANANA
-Orange
-pineapple
-carrot
+pine
